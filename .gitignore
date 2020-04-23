@@ -1,0 +1,5 @@
+# Project exclude paths
+/spring-junit5/target/
+/spring_junit4/target/
+/SpringBoot-JUnit4/target/
+/springboot_junit5/target/
